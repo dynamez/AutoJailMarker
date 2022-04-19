@@ -1,15 +1,15 @@
 {
-    "Author": "llock",
-    "Name": "Auto Jail Marker",
-    "Description": "Use /jailmarker to set up priority list",
-    "InternalName": "AutoJailMarker",
-    "Tags": [
-        "titan",
-        "jails",
-        "uwu"
-    ],
-    "IconUrl": "https://raw.githubusercontent.com/LockonS483/AutoJailMarker/master/Data/TitIco.png",
-    "RepoUrl": "https://github.com/LockonS483/AutoJailMarker",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel":  5
+  "Author": "llock",
+  "Name": "Auto Jail Marker",
+  "Description": "Use /jailmarker to set up priority list",
+  "InternalName": "AutoJailMarker",
+  "Tags": [
+    "titan",
+    "jails",
+    "uwu"
+  ],
+  "IconUrl": "https://raw.githubusercontent.com/dynamez/AutoJailMarker/master/Data/TitIco.png",
+  "RepoUrl": "https://github.com/dynamez/AutoJailMarker",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 6
 }
