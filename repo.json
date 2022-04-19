@@ -21,8 +21,8 @@
         "IsTestingExclusive": "False",
         "LastUpdated": 1631012003,
         "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/dynamez/AutoJailMarker/releases/download/2.3.0.2/AutoJailMarker.zip",
-        "DownloadLinkTesting": "https://github.com/dynamez/AutoJailMarker/releases/download/2.3.0.2/AutoJailMarker.zip",
-        "DownloadLinkUpdate": "https://github.com/dynamez/AutoJailMarker/releases/download/2.3.0.2/AutoJailMarker.zip"
+        "DownloadLinkInstall": "https://github.com/dynamez/AutoJailMarker/releases/download/2.3.0.2/latest.zip",
+        "DownloadLinkTesting": "https://github.com/dynamez/AutoJailMarker/releases/download/2.3.0.2/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/dynamez/AutoJailMarker/releases/download/2.3.0.2/latest.zip"
     }
 ]
